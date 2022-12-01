@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
+.price__button {
+    display: inline-block;
+    width: 236px;
+    height: 48px;
+    text-align: center;
+    background-color: #000000;
+    color: #F3C653;
+    letter-spacing: 2%;
+    
+}
+
+.room__service {
+    display: flex;
+    
+}
+
+.frame {
+    
+}
+
+.room__buttons {
+    align-self: flex-start;
+}
